@@ -1,0 +1,26 @@
+#ajax-message{
+  display: none;
+}
+.form-pti{
+  display: none;
+}
+.fields-icon{
+  display:inline-table;
+  margin-right:50px;
+}
+
+.fields-post{
+  display:inline-table;
+}
+
+.float-fields{
+  margin-top:20px;
+}
+
+.float-fields table{
+  display: inline-table;
+}
+
+.save-button{
+  margin-top: 10px;
+}
